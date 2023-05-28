@@ -3,7 +3,8 @@ import "./globals.css";
 
 export const metadata = {
   title: "Trello Clone",
-  description: "Created using Next.js 13.4, Zustand, Appwrite Cloud, GPT-4",
+  description:
+    "Created using Next.js 13.4, Zustand, Appwrite Cloud, GPT-4 and TailWindCSS",
 };
 
 export default function RootLayout({
